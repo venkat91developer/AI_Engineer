@@ -312,3 +312,28 @@ The slide lists LangChain, LangGraph, LlamaIndex, AutoGen, and CrewAI with a red
 
 - **ML:** Students Performance in Exams, SMS Spam Collection, Customer Segmentation (Kaggle)
 - **DL:** MNIST, Dogs vs. Cats, Twitter Entity Sentiment Analysis (Kaggle)
+
+## PATH STRUCTURE: 
+ai-engineer/
+├── 01-python-foundations/
+│   ├── report-card-generator/
+│   └── expense-tracker-console/
+├── 02-fastapi/
+│   └── expense-tracker-api/
+├── 03-databases/
+│   └── expense-tracker-db/
+├── 04-machine-learning/
+│   ├── student-score-predictor/
+│   ├── spam-classifier/
+│   └── customer-segmentation/
+├── 05-deep-learning/
+│   ├── mnist-digit-recognizer/
+│   ├── cats-vs-dogs-cnn/
+│   └── tweet-sentiment/
+├── 06-genai/
+│   ├── resume-screener/
+│   └── rag-chatbot/
+├── 07-agents/
+│   ├── informational-agent/
+│   └── travel-planner-agent/
+└── notes/            # weekly reviews, cheat sheets
